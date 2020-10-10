@@ -3,8 +3,8 @@ mod 'puppetlabs/stdlib'
 mod 'puppetlabs/concat'
 mod 'puppetlabs/translate'
 
-mod 'pltraining/dockeragent'
-mod 'garethr/docker'
+#mod 'pltraining/dockeragent'
+#mod 'garethr/docker'
 
-#mod 'samuelson/dockeragent'
-#mod 'puppetlabs/docker'
+mod 'samuelson/dockeragent'
+mod 'puppetlabs/docker'
